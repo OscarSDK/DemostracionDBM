@@ -17,11 +17,14 @@ public class BaseDeDatosII {
     public static void main(String[] args) {
         int x = 4;
         int y = 8;
+      
        
         System.out.println("la suma es:"+(x+y));
         System.out.println("la resta es:"+(x-y));
         System.out.println("la multiplicación es:"+(x*y));
         System.out.println("la división es:"+(x/y));
+        System.out.println("Moises");
+        
     }
     
 }
