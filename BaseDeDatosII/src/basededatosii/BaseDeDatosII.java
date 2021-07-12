@@ -19,6 +19,9 @@ public class BaseDeDatosII {
         int y = 8;
        
         System.out.println("la suma es:"+(x+y));
+        System.out.println("la resta es:"+(x-y));
+        System.out.println("la multiplicación es:"+(x*y));
+        System.out.println("la división es:"+(x/y));
     }
     
 }
